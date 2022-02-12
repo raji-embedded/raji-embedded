@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raji-embedded
 - 👀 I’m interested in ...Embedded Domain its any part of THE UNIVERSE
-- 🌱 I’m currently learning ... YOCTO, FIRMWARE, LINUX DEVICE DRIVERS, BUS 
+- 🌱 I’m currently learning ... YOCTO, FIRMWARE, LINUX DEVICE DRIVERS, BUS COMMUNICATION's 
 - 💞️ I’m looking to collaborate on ... LINUX KERNEL
 - 📫 How to reach me ...raje.embd09@gmail.com
 
